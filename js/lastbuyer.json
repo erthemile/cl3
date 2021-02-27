@@ -1,0 +1,48 @@
+{
+    "words": {
+    "from": "desde",
+        "just_placed": "acaba de hacer un pedido."
+},
+    "clients": [
+    {
+        "name": "J. A. F. ",
+        "city": "Vitoria"
+    },
+    {
+        "name": "N. M. ",
+        "city": "Vigo"
+    },
+    {
+        "name": "M. S. ",
+        "city": "Sevilla"
+    },
+    {
+        "name": "M. B. ",
+        "city": "Oviedo"
+    },
+    {
+        "name": "I. C. F. ",
+        "city": "Vigo"
+    },
+    {
+        "name": "C. M.",
+        "city": "Granada"
+    },
+    {
+        "name": "S. B.",
+        "city": "Bilbao"
+    },
+    {
+        "name": "A. R. ",
+        "city": "Córdoba"
+    },
+    {
+        "name": "P. C.",
+        "city": "Bilbao"
+    },
+    {
+        "name": "C. B. ",
+        "city": "Sevilla"
+    }
+]
+}
